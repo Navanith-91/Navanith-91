@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Navanith V</h1>
 <h3 align="center">AI/ML Engineer | Computer Vision | GenAI Enthusiast</h3>
 
