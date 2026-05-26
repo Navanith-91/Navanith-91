@@ -16,8 +16,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/navanith-v-ai091/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/navanith-v-ai091/" target="blank">
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+alt="linkedin"
+height="40"
+width="40" />
 </a>
 </p>
 
