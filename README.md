@@ -17,8 +17,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/navanith-v-ai091/">
-<img src="https://www.linkedin.com/in/navanith-v-ai091/?skipRedirect=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3VW7PQj5SUS8A5Ji4xH%2Btw%3D%3D"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+</p>
 
 <a href="https://www.instagram.com/direct/inbox/">
 <img src="https://scontent.cdninstagram.com/v/t51.2885-19/472244624_933106971813250_324821422269490086_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jW7Je3Qm-hAQ7kNvwGGA6G1&_nc_oc=Adp0YH_DDM8RUnAClm9XWv5pmvWXC6g18LfZCzBYEiAUcPRH-vWqaE6bGmAONv7njW4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7a6a8&oh=00_Af4P4nF_yu7DtOAjLzHi2z-mhoSVbWhVeHhOCYjFMWwVJQ&oe=6A1B2F89"/>
@@ -50,11 +51,11 @@ Real-time threat detection system using Whisper + NLP.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Navanith-91&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navanith-91&theme=tokyonight"/>
 </p>
 
 ---
