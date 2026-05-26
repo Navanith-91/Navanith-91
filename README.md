@@ -15,14 +15,12 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/navanith-v-ai091/" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-alt="linkedin"
-height="40"
-width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/navanith-v-ai091/">
+    <img src="https://media.licdn.com/dms/image/v2/D4E35AQFjySRrYiZ0ag/profile-framedphoto-shrink_800_800/B4EZlY8wOUKwAg-/0/1758133945607?e=1780390800&v=beta&t=2IsguaMQ1laVX8mUVSi9Jvsc7k09G_VXWToMBxxp9ZA"
+    width="200"
+    style="border-radius:50%;" />
+  </a>
 </p>
 
 <a href="https://www.instagram.com/direct/inbox/">
