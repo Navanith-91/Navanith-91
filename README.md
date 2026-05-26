@@ -15,14 +15,20 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
+
+<h3>LinkedIn</h3>
 
 <a href="https://www.linkedin.com/in/navanith-v-ai091/">
 <img src="https://media.licdn.com/dms/image/v2/D4E35AQFjySRrYiZ0ag/profile-framedphoto-shrink_800_800/B4EZlY8wOUKwAg-/0/1758133945607?e=1780390800&v=beta&t=2IsguaMQ1laVX8mUVSi9Jvsc7k09G_VXWToMBxxp9ZA"
 width="180"
 height="180"
-style="border-radius:50%; margin-right:20px;" />
+style="border-radius:50%;" />
 </a>
+
+<br><br>
+
+<h3>Instagram</h3>
 
 <a href="https://www.instagram.com/direct/inbox/">
 <img src="https://scontent.cdninstagram.com/v/t51.2885-19/472244624_933106971813250_324821422269490086_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jW7Je3Qm-hAQ7kNvwGGA6G1&_nc_oc=Adp0YH_DDM8RUnAClm9XWv5pmvWXC6g18LfZCzBYEiAUcPRH-vWqaE6bGmAONv7njW4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_ss=7a6a8&oh=00_Af4P4nF_yu7DtOAjLzHi2z-mhoSVbWhVeHhOCYjFMWwVJQ&oe=6A1B2F89"
