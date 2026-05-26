@@ -16,8 +16,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/navanith-v-ai091/">
-<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/navanith-v-ai091/?skipRedirect=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_member_photo_view%3Bi7x8eHF1SUCcOg%2Br6bEl0w%3D%3D)"/>
+<a href="https://www.linkedin.com/in/navanith-v-ai091/">
+<img src="https://www.linkedin.com/in/navanith-v-ai091/?skipRedirect=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3VW7PQj5SUS8A5Ji4xH%2Btw%3D%3D"/>
 </a>
 
 <a href="https://www.instagram.com/direct/inbox/">
