@@ -81,10 +81,10 @@ Real-time threat detection system using Whisper + NLP.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navanith-91&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Navanith-91&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
