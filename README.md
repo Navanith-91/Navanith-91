@@ -28,7 +28,7 @@
 <h3>LinkedIn</h3>
 
 <a href="https://www.linkedin.com/in/navanith-v-ai091/">
-<img src="https://media.licdn.com/dms/image/v2/D4E35AQFjySRrYiZ0ag/profile-framedphoto-shrink_800_800/B4EZlY8wOUKwAg-/0/1758133945607?e=1789279200&v=beta&t=3csBfVXLLI-sfRePBgLlp7289g5LsvUNWJG4jwyyRXc"
+<img src="https://www.linkedin.com/in/navanith-v/?isSelfProfile=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgsE0hsLBQCqKkmuIVJICOw%3D%3D"
 width="180"
 height="180"
 style="border-radius:50%;" />
@@ -39,7 +39,7 @@ style="border-radius:50%;" />
 <h3>Instagram</h3>
 
 <a href="https://www.instagram.com/direct/inbox/">
-<img src="https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-19/472244624_933106971813250_324821422269490086_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gE7TVy-aZoxxSTblGzRo74Dx7HXF9HVxXw6kn00BvDHZhp3u0KkF1OcrBw6NR3ZAYSzka8248stH35fLpQZO30A&_nc_ohc=lcgXoSQAteMQ7kNvwHjbI3N&_nc_gid=UhQvE1vvLB9iO4bFiercxw&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQIZ84DPzGph7a9SKW0c-C-Yut7hx_QnFpvr1YLCZ9oLGg&oe=6AA2C1C9&_nc_sid=7a9f4b"
+<img src="https://instagram.fblr1-7.fna.fbcdn.net/v/t51.2885-19/472244624_933106971813250_324821422269490086_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1M6By2FJMwUQ7kNvwGj361O&_nc_oc=Adosi2w2lPrOPoi7xtpTLfKfgTfDTNCb0Qn262iMCJtrySzyWZZp2369KeR8L8vSBu-06uY6OkXnoprCpVRIuErT&_nc_zt=24&_nc_ht=instagram.fblr1-7.fna&_nc_ss=7b6a8&oh=00_AQNsN13T-zs0-2jmC0NYBMPriW04_nFo_Ed9nsKvKzwHdw&oe=6AC9A609"
 width="180"
 height="180"
 style="border-radius:50%;" />
