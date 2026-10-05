@@ -28,7 +28,7 @@
 <h3>LinkedIn</h3>
 
 <a href="https://www.linkedin.com/in/navanith-v-ai091/">
-<img src="https://www.linkedin.com/in/navanith-v/?isSelfProfile=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgsE0hsLBQCqKkmuIVJICOw%3D%3D"
+<img src="https://media.licdn.com/dms/image/v2/D4E35AQFjySRrYiZ0ag/profile-framedphoto-shrink_800_800/B4EZlY8wOUKwAg-/0/1758133945607?e=1791817200&v=beta&t=NXp4qn36JMGlC18ELas8gpl1uebD-xUwtennHsBJHEc"
 width="180"
 height="180"
 style="border-radius:50%;" />
